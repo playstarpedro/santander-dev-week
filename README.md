@@ -1,6 +1,4 @@
-# Santander Dev Week
-
-# Classes Diagram 
+# Class Diagram 
 
 ```mermaid 
 classDiagram
